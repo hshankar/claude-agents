@@ -33,6 +33,7 @@ This repository contains a comprehensive set of Claude AI system prompts designe
 - **`ask.md`** - Q&A assistant with research capabilities
 - **`research.md`** - Web research and external documentation lookup
 - **`docs.md`** - Technical documentation creation
+- **`ideate.md`** - Creative brainstorming and solution exploration mode
 
 ### Git & Change Management
 
@@ -44,6 +45,7 @@ This repository contains a comprehensive set of Claude AI system prompts designe
 
 - **`set-phase.md`** - Development phase management (MVP, production, hotfix)
 - **`check-pattern.md`** - Existing codebase pattern analysis
+- **`enhance-command.md`** - Command prompt assessment and improvement tool
 
 ## Usage
 
