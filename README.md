@@ -1,6 +1,7 @@
-# Claude Code Command Templates
+# Claude Code Agent Templates
 
-A collection of specialized system prompts and command templates for Claude Code to enhance software development workflows.
+A collection of specialized system prompts and command templates for Claude Code to enhance software development workflows. Read the documentation for agents at: https://docs.anthropic.com/en/docs/claude-code/sub-agents
+Copy the agents you would like into the ~/.claude/agents directory and access them by name to hand off tasks to them without losing current context.
 
 ## Overview
 
